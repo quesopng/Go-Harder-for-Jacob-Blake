@@ -1,0 +1,133 @@
+body{
+  margin: 2em;
+  font-family: "Oxygen", sans-serif;
+  background-color: #D7C1AD;  
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: 20px;
+  font-style: italic;
+  color: #C6EBBE;
+  text-shadow: 2px 2px #95B2B0;
+}
+
+p {
+  font-size: 20px;
+  color: #020887;
+  margin: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #020887;
+  font-size: 20px;
+  margin: 2px;
+}
+
+.callBox {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  justify-content: space-around;
+  border: 3px solid #020887;
+  border-radius: 20px;
+}
+
+.kenoshaCityAttorney {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.kenoshaCityAttorney:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.kenoshaMayorAndCityAdmin {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.kenoshaMayorAndCityAdmin:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.wisconsinDepartmentOfJustice {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.wisconsinDepartmentOfJustice:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.kenoshaPoliceDepartment {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.kenoshaPoliceDepartment:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+#h2 {
+font-size: 45px;
+text-align: left;  
+}
+
+.calllBox {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  padding: 20px;
+  border: 3px solid #020887;
+  border-radius: 20px;
+}
+
+p{
+  text-align: center;
+}

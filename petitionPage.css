@@ -1,0 +1,107 @@
+body{
+  margin: 2em;
+  font-family: "Oxygen", sans-serif;
+  background-color: #D7C1AD;  
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: 20px;
+  font-style: italic;
+  color: #C6EBBE;
+  text-shadow: 2px 2px #95B2B0;
+}
+
+p {
+  font-size: 20px;
+  color: #020887;
+  margin: 2px;
+}
+
+.petitionBox {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  justify-content: space-around;
+  border: 3px solid #020887;
+  border-radius: 20px;
+}
+
+.changeJusticeBlake {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.changeJusticeBlake:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.chargeTheCops {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.chargeTheCops:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.demandJustice {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.demandJustice:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
+
+.whitehousePetition {
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #BBB0AB;
+  background-color: #BBB0AB;
+  border-radius: 20px;
+  box-shadow: 3px 3px #9e9ea8;
+  font-size: 20px;
+}
+
+.whitehousePetition:hover {
+  border: 2px solid #647AA3;
+  background-color: #647AA3;
+  box-shadow: 3px 3px #334195;
+  color: #C6EBBE;
+  transition: 0.2s;
+}
